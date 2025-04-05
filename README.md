@@ -1,76 +1,40 @@
-# The Ultimate Java and Spring Boot Mastery Roadmap
+# 🔗 URL Shortener - Linklytics
 
-Welcome to your one-stop-shop for mastering Java and Spring Boot! This repository offers a comprehensive learning experience with high-quality resources and community support. Dive into over 150+ hours of premium content, with everything you need to excel at Java and Spring Boot development.
+A powerful and secure full-stack URL shortening application with JWT-based authentication, analytics, and responsive frontend. Built with **Spring Boot**, **MySQL**, and **React.js**.
 
-## 🎓 Learning Roadmap
+---
 
-Most of the courses below are available in **Udemy For Business**, so if you have subscription - you can get FREE access.
-Here’s a structured path to enhance your skills with detailed courses available:
+## 🚀 Features
 
-1. **[Spring Boot By Building Complex Projects Step by Step](https://link.embarkx.com/spring-boot) (70+ Hours of Content)**
-2. **[Master Spring Boot Microservices](https://link.embarkx.com/microservices) (23+ Hours of Content)**
-3. **[Learn Java with 60+ Hours of Content](http://link.embarkx.com/java) (60+ Hours of Content)**
-4. **[Master Spring Security with React JS + OAuth2](https://link.embarkx.com/spring-security) (34+ Hours of Content)**
-5. **[Master IntelliJ IDEA](http://link.embarkx.com/intellij) (3+ Hours of Content)**
+- 🔐 User Authentication (JWT)
+- 🔗 Shorten long URLs into unique short ones
+- 📊 Dashboard to manage & track shortened links
+- 📈 Click Analytics
+- 📦 Secure & efficient backend
+- 🎨 Beautiful and responsive UI (React + Tailwind CSS)
 
+---
 
-## 🌟 With All Our Courses You Gain Access To
+## ⚙️ Tech Stack
 
-- 📝 **Notes:** Detailed and downloadable notes to accompany each lesson.
-- 💻 **Source Code:** Full access to the source code used in the tutorials.
-- 🤔 **Doubt Solving:** Responsive instructor and community support.
-- 🎥 **High-Quality HD Videos:** Easy to understand, high-definition video tutorials.
-- 🔄 **Free Lifetime Updates:** Continuous updates to course content at no extra cost.
+### 🔧 Backend:
+- Java + Spring Boot
+- Spring Security (JWT Auth)
+- MySQL
+- JPA (Hibernate)
 
-## 📚 Why Choose This Mastery Series?
+### 🎨 Frontend:
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
 
-With this series, you're not just learning; you're preparing to dominate the field of Java and Spring Boot development. Our structured learning path ensures that you build your skills progressively, with each course designed to build on the knowledge gained from the previous one.
+---
 
-### Join Us Now!
+## 🛠️ Setup Instructions
 
-Start your journey today to become a master at Java and Spring Boot. Our community and expert instructors are here to support your learning every step of the way. **Enroll and start building your future, today!**
-
-
-
-
-
-# Usage Policy for Course Materials
-
-## Instructor Information
-
-**Instructor:** Faisal Memon  
-**Company:** [EmbarkX.com](http://www.embarkx.com)
-
-## Policy Overview
-
-This document outlines the guidelines and restrictions concerning the use of course materials provided by EmbarkX, including but not limited to PDF presentations, code samples, and video tutorials.
-
-### 1. Personal Use Only
-
-The materials provided in this course are intended for **your personal use only**. They are to be used solely for the purpose of learning and completing this course.
-
-### 2. No Unauthorized Sharing or Distribution
-
-You are **not permitted** to share, distribute, or publicly post any course materials on any websites, social media platforms, or other public forums without prior written consent from the instructor.
-
-### 3. Intellectual Property
-
-All course materials are protected by copyright laws and are the intellectual property of Faisal Memon and EmbarkX. Unauthorized use, reproduction, or distribution of these materials is **strictly prohibited**.
-
-### 4. Reporting Violations
-
-If you become aware of any unauthorized sharing or distribution of course materials, please report it immediately to [embarkxofficial@gmail.com](mailto:embarkxofficial@gmail.com).
-
-### 5. Legal Action
-
-We reserve the right to take legal action against individuals or entities found to be violating this usage policy.
-
-## Thank You
-
-Thank you for respecting these guidelines and helping us maintain the integrity of our course materials.
-
-## Contact Information
-
-- **Email:** [embarkxofficial@gmail.com](mailto:embarkxofficial@gmail.com)
-- **Website:** [www.embarkx.com](http://www.embarkx.com)
+### 1. Clone the Repo
+```bash
+git clone https://github.com/GeeksAdarsh/URL-SHORTENER.git
+cd URL-SHORTENER
 
